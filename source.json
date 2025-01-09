@@ -15,7 +15,8 @@
     "bannerUrl":"banner-rera.png",
     "githubRepos":[
         "soumt-r/Material-Copier-VPM",
-	    "soumt-r/Texture-Color-Tool-VPM",
-        "soumt-r/Mesh-Bone-Selector-VPM"
+        "soumt-r/Texture-Color-Tool-VPM",
+        "soumt-r/Mesh-Bone-Selector-VPM",
+        "soumt-r/Avatar-Venv-System-VPM"
     ]
 }
